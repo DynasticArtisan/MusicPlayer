@@ -1,0 +1,18 @@
+.trackItem {
+  display: flex;
+  border-bottom: 1px solid #000;
+  align-items: center;
+}
+.picture {
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.discr {
+  flex-grow: 1;
+}
+.time {
+  margin-right: 20px;
+}
